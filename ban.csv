@@ -1,0 +1,195 @@
+Country2016,MortalityRate,MandateHWCigarettes,PlainPackageCigarettes,AdRestrictionsTVBeer,AdRestrictionsTVSpirits,AdRestrictionsTVWine
+Afghanistan,245,Yes,No,ban,ban,ban
+Albania,96,Yes,No,partial restriction,partial restriction,partial restriction
+Algeria,95,Yes,No,ban,ban,ban
+Andorra,,No,No,no restriction,no restriction,no restriction
+Angola,238,No,No,no restriction,no restriction,no restriction
+Antigua and Barbuda,120,No,No,no restriction,no restriction,no restriction
+Argentina,111,Yes,No,partial restriction,partial restriction,partial restriction
+Armenia,116,Yes,No,ban,ban,ban
+Australia,61,Yes,Yes,partial restriction,partial restriction,partial restriction
+Austria,62,Yes,No,partial restriction,ban,partial restriction
+Azerbaijan,118,Yes,No,ban,ban,ban
+Bahamas,159,Yes,No,no restriction,ban,no restriction
+Bahrain,57,Yes,No,no data,no data,no data
+Bangladesh,130,Yes,No,ban,ban,ban
+Barbados,100,No,No,no restriction,no restriction,no restriction
+Belarus,161,Yes,No,partial restriction,ban,ban
+Belgium,72,Yes,No,partial restriction,partial restriction,partial restriction
+Belize,179,Yes,No,no restriction,no restriction,no restriction
+Benin,242,Yes,No,no restriction,no restriction,no restriction
+Bhutan,207,Yes,No,ban,ban,ban
+Bolivia (Plurinational State of),182,Yes,No,no data,no data,no data
+Bosnia and Herzegovina,92,No,No,partial restriction,partial restriction,partial restriction
+Botswana,249,No,No,ban,ban,ban
+Brazil,143,Yes,No,voluntary/self-restricted,partial restriction,voluntary/self-restricted
+Brunei Darussalam,98,Yes,No,no data,no data,no data
+Bulgaria,135,Yes,No,partial restriction,partial restriction,partial restriction
+Burkina Faso,255,Yes,No,partial restriction,ban,ban
+Burundi,290,No,No,no restriction,no restriction,no restriction
+Cabo Verde,122,Yes,No,partial restriction,partial restriction,partial restriction
+Cambodia,170,Yes,No,ban,ban,ban
+Cameroon,341,Yes,No,no restriction,no restriction,no restriction
+Canada,63,Yes,No,partial restriction,partial restriction,partial restriction
+Central African Republic,412,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Chad,360,Yes,No,ban,ban,ban
+Chile,87,Yes,No,no restriction,no restriction,no restriction
+China,80,Yes,No,partial restriction,partial restriction,partial restriction
+Colombia,137,Yes,No,partial restriction,partial restriction,partial restriction
+Comoros,225,Yes,No,ban,ban,ban
+Congo,261,Yes,No,no restriction,no restriction,no restriction
+Cook Islands,,Yes,No,no restriction,no restriction,no restriction
+Costa Rica,97,Yes,No,partial restriction,partial restriction,partial restriction
+Côte d'Ivoire,398,Yes,No,no restriction,no restriction,no restriction
+Croatia,88,Yes,No,no restriction,ban,ban
+Cuba,92,Yes,No,no data,no data,no data
+Cyprus,55,Yes,No,partial restriction,partial restriction,partial restriction
+Czechia,81,Yes,No,partial restriction,partial restriction,partial restriction
+Democratic People's Republic of Korea,132,Yes,No,no data,no data,no data
+Democratic Republic of the Congo,256,Yes,No,partial restriction,no restriction,no restriction
+Denmark,65,Yes,No,partial restriction,partial restriction,partial restriction
+Djibouti,245,Yes,No,ban,ban,ban
+Dominica,,No,No,no restriction,no restriction,no restriction
+Dominican Republic,160,Yes,No,no restriction,no restriction,no restriction
+Ecuador,114,Yes,No,ban,ban,ban
+Egypt,165,Yes,No,ban,ban,ban
+El Salvador,177,Yes,No,partial restriction,partial restriction,partial restriction
+Equatorial Guinea,305,No,No,partial restriction,partial restriction,partial restriction
+Eritrea,252,Yes,No,no restriction,no restriction,no restriction
+Estonia,119,Yes,No,ban,ban,ban
+Eswatini,393,Yes,No,no restriction,no restriction,no restriction
+Ethiopia,219,Yes,No,partial restriction,partial restriction,partial restriction
+Fiji,186,Yes,No,no data,no data,no data
+Finland,70,Yes,No,partial restriction,partial restriction,partial restriction
+France,71,Yes,Yes,ban,ban,ban
+Gabon,221,Yes,No,no restriction,no restriction,no restriction
+Gambia,262,Yes,No,ban,ban,ban
+Georgia,160,Yes,No,partial restriction,ban,partial restriction
+Germany,69,Yes,No,partial restriction,partial restriction,partial restriction
+Ghana,241,Yes,No,partial restriction,partial restriction,partial restriction
+Greece,66,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Grenada,140,No,No,no restriction,no restriction,no restriction
+Guatemala,162,Yes,No,no restriction,no restriction,no restriction
+Guinea,262,Yes,No,ban,ban,ban
+Guinea-Bissau,269,No,No,no restriction,no restriction,no restriction
+Guyana,264,Yes,No,no restriction,no restriction,no restriction
+Haiti,243,No,No,no data,no data,no data
+Honduras,145,Yes,No,partial restriction,partial restriction,partial restriction
+Hungary,126,Yes,Yes,partial restriction,partial restriction,partial restriction
+Iceland,55,Yes,No,ban,ban,ban
+India,178,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Indonesia,176,Yes,No,ban,ban,ban
+Iran (Islamic Republic of),80,Yes,No,ban,ban,ban
+Iraq,174,Yes,No,ban,ban,ban
+Ireland,62,Yes,No,partial restriction,partial restriction,partial restriction
+Israel,58,Yes,No,partial restriction,partial restriction,partial restriction
+Italy,54,Yes,No,partial restriction,partial restriction,partial restriction
+Jamaica,131,Yes,No,partial restriction,partial restriction,partial restriction
+Japan,51,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Jordan,111,Yes,No,ban,ban,ban
+Kazakhstan,181,Yes,No,ban,ban,ban
+Kenya,219,Yes,No,partial restriction,partial restriction,partial restriction
+Kiribati,197,Yes,No,no restriction,no restriction,no restriction
+Kuwait,79,Yes,No,no data,no data,no data
+Kyrgyzstan,162,Yes,No,no data,no data,no data
+Lao People's Democratic Republic,193,Yes,No,ban,ban,ban
+Latvia,154,Yes,No,partial restriction,ban,partial restriction
+Lebanon,96,Yes,No,no restriction,no restriction,no restriction
+Lesotho,483,No,No,no restriction,no restriction,no restriction
+Liberia,230,No,No,no restriction,no restriction,no restriction
+Libya,150,Yes,No,ban,ban,ban
+Lithuania,155,Yes,No,ban,ban,ban
+Luxembourg,56,Yes,No,partial restriction,partial restriction,partial restriction
+Madagascar,216,Yes,No,ban,ban,ban
+Malawi,255,No,No,no restriction,no restriction,no restriction
+Malaysia,123,Yes,No,ban,ban,ban
+Maldives,53,Yes,No,ban,ban,ban
+Mali,270,Yes,No,no restriction,no restriction,no restriction
+Malta,55,Yes,No,partial restriction,partial restriction,partial restriction
+Marshall Islands,,Yes,No,no restriction,no restriction,no restriction
+Mauritania,202,No,No,ban,ban,ban
+Mauritius,145,Yes,No,ban,ban,ban
+Mexico,127,Yes,No,partial restriction,partial restriction,partial restriction
+Micronesia (Federated States of),164,No,No,no data,no data,no data
+Monaco,,No,No,no data,no data,no data
+Mongolia,211,Yes,No,ban,ban,ban
+Montenegro,99,Yes,No,partial restriction,partial restriction,partial restriction
+Morocco,69,Yes,No,ban,ban,ban
+Mozambique,336,Yes,No,no restriction,no restriction,no restriction
+Myanmar,195,Yes,No,ban,ban,ban
+Namibia,296,Yes,No,no restriction,no restriction,no restriction
+Nauru,,Yes,No,no data,no data,no data
+Nepal,151,Yes,No,no data,no data,no data
+Netherlands,59,Yes,No,partial restriction,partial restriction,partial restriction
+New Zealand,66,Yes,Yes,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Nicaragua,146,Yes,No,no restriction,no restriction,no restriction
+Niger,250,Yes,No,ban,ban,ban
+Nigeria,352,Yes,No,no restriction,no restriction,no restriction
+Niue,,No,No,no data,no data,no data
+Norway,55,Yes,No,ban,ban,ban
+Oman,96,Yes,No,ban,ban,ban
+Pakistan,159,Yes,No,ban,ban,ban
+Palau,,No,No,no data,no data,no data
+Panama,111,Yes,No,partial restriction,partial restriction,partial restriction
+Papua New Guinea,224,Yes,No,no data,no data,no data
+Paraguay,146,Yes,No,partial restriction,partial restriction,partial restriction
+Peru,124,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Philippines,194,Yes,No,no restriction,no restriction,no restriction
+Poland,111,Yes,No,partial restriction,partial restriction,partial restriction
+Portugal,76,Yes,No,partial restriction,partial restriction,partial restriction
+Qatar,62,Yes,No,no data,no data,no data
+Republic of Korea,61,Yes,No,partial restriction,partial restriction,partial restriction
+Republic of Moldova,167,Yes,No,no restriction,partial restriction,partial restriction
+North Macedonia,96,Yes,No,partial restriction,partial restriction,partial restriction
+Romania,135,Yes,No,partial restriction,partial restriction,partial restriction
+Russian Federation,203,Yes,No,partial restriction,ban,partial restriction
+Rwanda,198,Yes,No,no restriction,no restriction,no restriction
+Saint Kitts and Nevis,,No,No,no restriction,no restriction,no restriction
+Saint Lucia,147,No,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Saint Vincent and the Grenadines,169,No,No,no restriction,no restriction,no restriction
+Samoa,110,Yes,No,no restriction,no restriction,no restriction
+San Marino,,No,No,no restriction,no restriction,no restriction
+Sao Tome and Principe,191,Yes,No,no restriction,no restriction,no restriction
+Saudi Arabia,89,Yes,No,no data,no data,no data
+Senegal,185,Yes,No,ban,ban,ban
+Serbia,103,Yes,No,partial restriction,partial restriction,partial restriction
+Seychelles,163,Yes,No,ban,ban,ban
+Sierra Leone,389,No,No,no restriction,no restriction,no restriction
+Singapore,51,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Slovakia,104,Yes,No,partial restriction,partial restriction,partial restriction
+Slovenia,72,Yes,No,partial restriction,ban,partial restriction
+Solomon Islands,146,Yes,No,no data,no data,no data
+Somalia,316,No,No,ban,ban,ban
+South Africa,301,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+South Sudan,321,No,No,partial restriction,partial restriction,partial restriction
+Spain,56,Yes,No,partial restriction,partial restriction,partial restriction
+Sri Lanka,131,Yes,No,ban,ban,ban
+Sudan,224,Yes,No,ban,ban,ban
+Suriname,180,Yes,No,no restriction,no restriction,no restriction
+Sweden,52,Yes,No,ban,ban,ban
+Switzerland,49,Yes,No,no restriction,ban,no restriction
+Syrian Arab Republic,301,Yes,No,ban,ban,ban
+Tajikistan,123,Yes,No,ban,partial restriction,ban
+Thailand,147,Yes,No,partial restriction,partial restriction,partial restriction
+Timor-Leste,150,Yes,No,no restriction,no restriction,no restriction
+Togo,265,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Tonga,133,Yes,No,no data,no data,no data
+Trinidad and Tobago,172,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Tunisia,91,Yes,No,no data,no data,no data
+Turkey,104,Yes,No,ban,ban,ban
+Turkmenistan,191,Yes,No,ban,ban,ban
+Tuvalu,,Yes,No,no data,no data,no data
+Uganda,288,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Ukraine,180,Yes,No,partial restriction,partial restriction,partial restriction
+United Arab Emirates,74,Yes,No,ban,ban,ban
+United Kingdom of Great Britain and Northern Ireland,67,Yes,Yes,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+United Republic of Tanzania,261,Yes,No,no restriction,no restriction,no restriction
+United States of America,114,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Uruguay,114,Yes,No,no restriction,no restriction,no restriction
+Uzbekistan,131,Yes,No,ban,ban,ban
+Vanuatu,129,Yes,No,no restriction,no restriction,no restriction
+Venezuela (Bolivarian Republic of),157,Yes,No,ban,ban,ban
+Viet Nam,125,Yes,No,no restriction,ban,no restriction
+Yemen,221,Yes,No,ban,ban,ban
+Zambia,286,Yes,No,no restriction,no restriction,no restriction
+Zimbabwe,334,Yes,No,no restriction,no restriction,no restriction
