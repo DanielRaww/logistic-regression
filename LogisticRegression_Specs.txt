@@ -1,0 +1,35 @@
+#########Quiz 5 #########################
+
+##Download the files from Blackboard into your working directory. When you are done, submit your .R file directly to gradescope.
+##I will have this file downloaded in my working directory, so do not worry about adding extra folder information.
+
+##Place a command to remove all variables from your environment at the very beginning of your script
+##Do not include the following commands in your code: install.packages, view or fix commands, and commands resetting your working directory in your final code.
+##Do include libraries you used in your code.
+##Ensure you are able to run your code from start to finish without changing place in your code.
+
+###Model 1: Qualitative Data Problem
+##Read in the dataset ban.csv. This information was publicly available from the WHO's website and collected by the professor. You can google the variables if you want more information on the data.
+##Delete any NAs from the dataset and write any commands to get an understanding of the dataset.
+##Run a linear regression named lmModel1 that tests whether the advertising restrictions on Beer on TV has an effect on the overall Mortality Rate.
+##In doing so, set x to AdRestrictionsTVBeer and Y to MortalityRate.
+############Provide the commands to produce your finished model, including outliers deleted.
+############Provide the commands used to test assumptions and whether or not they passed.
+############Transform the data if necessary to satisfy the assumptions of linear regression. If an assumption cannot be satisfied, state which one.
+############Provide your final regression equation at the end of the question response with a clear interpretation of what it means.  
+
+
+##Model 2: Logistic Regression Problem
+##Read in the dataset CovidLR.csv. This data was publicly available the Mexican government on https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico
+##and includes important information on Covid. Only a snapshot of data collected is provided to you. Data was mostly translated and coded into categorical representations (Yes/No/Unsure). Only numbers were on the website, and most numbers had clear coding.
+##Delete any NAs from the dataset and write any commands to get an understanding of the dataset.
+
+##Build a model where you predict "died" on the basis of the other 12 categorical variables. Because only categorical variables were available, do not worry about testing for linearity of the log predictor.
+##Train the model using 80% of the data
+
+#Answer the following questions:
+####Are there any influential observations in the overall dataset?
+#####What is your testing error rate?
+#####How does your testing error rate compare to your training error rate?
+#####Is the full prediction model with all variables any better at predicting death from covid than a competing model only using the individual additive effects of gender, pneumonia, and asthma
+#####Give an interpretation of what the final model means. 
